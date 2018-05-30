@@ -17,9 +17,13 @@ A redesign of the LearnHowToProgram.com website demonstrating wireframing and pr
 
 ## Sketch Screenshots
 
-| Homepage Artboards | Mobile Artboards |
+| Homepage Artboards |
+| ------------------ |
+| ![Homepage Artboards](https://github.com/william-chu/sketch-exercise/blob/master/img/HomepageArtboards.png?raw=true) |
+
+| Mobile Artboards | Mobile Prototypes |
 | ------------------ | ---------------- |
-| ![Homepage Artboards](https://github.com/william-chu/sketch-exercise/blob/master/img/Screen%20Shot%202018-05-30%20at%2011.28.38%20AM.png?raw=true) | ![Mobile Artboards](https://github.com/william-chu/sketch-exercise/blob/master/img/Screen%20Shot%202018-05-30%20at%2011.28.07%20AM.png?raw=true) |
+| ![Mobile Artboards](https://github.com/william-chu/sketch-exercise/blob/master/img/MobileArtboards.png?raw=true) | ![Mobile Prototypes](https://github.com/william-chu/sketch-exercise/blob/master/img/MobilePrototypes.png?raw=true) |
 
 ## Technologies Used
 
